@@ -1,4 +1,4 @@
-# Authentication & Authorization | Part 2
+# Authentication & Authorization 
 
 - Authentication Flow in React
   - Storing JWT Token
